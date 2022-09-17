@@ -1,0 +1,18 @@
+body
+{
+    margin: 0;
+    padding: 1rem;
+    height: 100vh;
+    overflow: hidden;
+    background: #FEDED4;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code
+{
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
